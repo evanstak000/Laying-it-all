@@ -1,0 +1,158 @@
+*{
+    box-sizing: border-box;
+    padding:; 
+    margin:;
+
+}
+
+.layout-1{
+    background-color: #e3e3e3;
+
+
+}
+
+.layout-2{
+    background-color: #e3e3e3;
+
+}
+
+.layout-3{
+    background-color: #e3e3e3;
+
+}
+
+.layout-1 #topHeader{
+    background-color:red;
+   width:100%;
+    
+
+}
+
+.layout-1 nav{
+    background-color:blue;
+
+
+}
+
+.layout-1 section{
+    background-color:green;
+
+}
+
+.layout-1 #sectionHeader{
+    background-color:yellow;
+    float:left;
+    width:80%
+ }
+
+.layout-1 article{
+    background-color:orange;
+ float:left;
+ width:80%
+}
+.layout-1 aside{
+    background-color:purple;
+    float:right;
+    width:60px;
+    margin-right: 10%
+ 
+    
+    
+  
+  
+
+}
+
+.layout-1 aside a{
+    background-color:white;
+  clear:both;
+}
+
+.layout-1 footer{
+    Width:100;
+    clear:both;
+}
+
+#topHeader2{
+    background-color:red;
+width:100%;
+clear:both;
+}
+.layout-2 nav{
+    background-color:blue;
+   clear:both;
+   float:left;
+   margin-right: 15% ;
+   width:10%;
+   border: 5px solid blue
+}
+
+.layout-2 nav a{
+    background-color:white;
+}
+
+#content{
+    background-color:green;
+    float:left;
+ 
+}
+
+.article2{
+    background-color:yellow;
+   
+   
+}
+.article{
+    background-color: yellow;
+    float:left;
+    width:80%;
+}
+
+.aside-content{
+    background-color:purple;
+    height:20px;
+    clear:both;
+   
+
+}
+
+.aside-info{
+    background-color:aqua;
+    clear:both;
+}
+
+.layout-2 img{
+    background-color: aqua;
+}
+
+.layout-2 footer{
+}
+
+.layout-3 header{
+    background-color:red;
+}
+
+#sectionHeader3{
+    background-color:blue;
+}
+
+.layout-3 nav{
+    background-color:yellow;
+}
+
+.layout-3 section{
+    background-color:orange;
+}
+
+.layout-3 aside{
+    background-color:purple;
+}
+
+#pageFooter{
+    background-color:green;
+}
+
+
+
+
+
