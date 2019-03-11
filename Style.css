@@ -30,19 +30,24 @@
 
 .layout-1 nav{
     background-color:blue;
+    clear:both;
+    float:left;
 
 
 }
 
 .layout-1 section{
     background-color:green;
+    clear:both;
+    float:right;
 
 }
 
 .layout-1 #sectionHeader{
     background-color:yellow;
-    float:left;
-    width:80%
+    float:;
+    width:80%;
+    clear:both;
  }
 
 .layout-1 article{
@@ -53,8 +58,10 @@
 .layout-1 aside{
     background-color:purple;
     float:right;
-    width:60px;
-    margin-right: 10%
+    width:18%;
+    margin-right: 5px;
+    padding:13px;
+  
  
     
     
@@ -66,6 +73,8 @@
 .layout-1 aside a{
     background-color:white;
   clear:both;
+  width:30px;
+
 }
 
 .layout-1 footer{
@@ -93,12 +102,13 @@ clear:both;
 
 #content{
     background-color:green;
-    float:left;
+    clear:both;
  
 }
 
 .article2{
     background-color:yellow;
+    clear:both;
    
    
 }
@@ -106,19 +116,24 @@ clear:both;
     background-color: yellow;
     float:left;
     width:80%;
+    clear:both;
 }
 
 .aside-content{
     background-color:purple;
-    height:20px;
-    clear:both;
+ 
+  
+  
+  
+    
+    
    
 
 }
 
 .aside-info{
     background-color:aqua;
-    clear:both;
+   
 }
 
 .layout-2 img{
